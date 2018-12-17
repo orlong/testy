@@ -1,0 +1,46 @@
+.text-left > li{
+    font-size: 120%;
+    color: black;
+    list-style: none;
+}
+.text-left > li > i{
+    font-size: 75%;
+    color: teal;
+    list-style: none;
+    margin-right: 20px;}
+
+h2{
+    font-size: 200%;
+    
+}
+
+
+
+.listing{
+    display: inline-block;
+    /*border-bottom: 1px dotted teal;*/
+/*    border-bottom: 4px outset teal;*/
+    border: 0.5px dotted teal;
+    margin:0;
+    padding:0;
+
+}
+
+.listing-head{
+    font-size: 125%;
+    color:;
+    margin:0;
+    padding:20px;
+}
+
+.listing-price{
+    font-size: 400%;
+    color:;
+    margin:0;
+    padding:20px;
+}
+
+.total{
+    color:teal;
+    font-size: 400%;
+}
